@@ -1,0 +1,28 @@
+c:\documents and settings\08101\мои документы\visual studio 2010\Projects\NetSendAdvanced\NSAServer\bin\Debug\NSAServer.exe
+c:\documents and settings\08101\мои документы\visual studio 2010\Projects\NetSendAdvanced\NSAServer\bin\Debug\NSAServer.pdb
+c:\documents and settings\08101\мои документы\visual studio 2010\Projects\NetSendAdvanced\NSAServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\08101\мои документы\visual studio 2010\Projects\NetSendAdvanced\NSAServer\obj\x86\Debug\NSAServer.MockForm.resources
+c:\documents and settings\08101\мои документы\visual studio 2010\Projects\NetSendAdvanced\NSAServer\obj\x86\Debug\NSAServer.Properties.Resources.resources
+c:\documents and settings\08101\мои документы\visual studio 2010\Projects\NetSendAdvanced\NSAServer\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\documents and settings\08101\мои документы\visual studio 2010\Projects\NetSendAdvanced\NSAServer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\documents and settings\08101\мои документы\visual studio 2010\Projects\NetSendAdvanced\NSAServer\obj\x86\Debug\NSAServer.exe
+c:\documents and settings\08101\мои документы\visual studio 2010\Projects\NetSendAdvanced\NSAServer\obj\x86\Debug\NSAServer.pdb
+C:\Users\Илья\Dropbox\Работа\NetSendAdvanced\NSAServer\obj\x86\Debug\NSASender.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Dropbox\Работа\NetSendAdvanced\NSAServer\obj\x86\Debug\NSAServer.MockForm.resources
+C:\Users\Илья\Dropbox\Работа\NetSendAdvanced\NSAServer\obj\x86\Debug\NSAServer.Properties.Resources.resources
+C:\Users\Илья\Dropbox\Работа\NetSendAdvanced\NSAServer\obj\x86\Debug\NSASender.csproj.GenerateResource.Cache
+C:\Users\Илья\Dropbox\Работа\NetSendAdvanced\NSAServer\obj\x86\Debug\NSAServer.NewMessageForm.resources
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\NetSendAdvanced\NSAServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\NetSendAdvanced\NSAServer\obj\x86\Debug\NSAServer.MockForm.resources
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\NetSendAdvanced\NSAServer\obj\x86\Debug\NSAServer.NewMessageForm.resources
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\NetSendAdvanced\NSAServer\obj\x86\Debug\NSAServer.Properties.Resources.resources
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\NetSendAdvanced\NSAServer\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\NetSendAdvanced\NSAServer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\NetSendAdvanced\NSAServer\bin\Debug\NSASender.exe
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\NetSendAdvanced\NSAServer\bin\Debug\NSASender.pdb
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\NetSendAdvanced\NSAServer\obj\x86\Debug\NSASender.exe
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\NetSendAdvanced\NSAServer\obj\x86\Debug\NSASender.pdb
+C:\Users\Илья\Dropbox\Работа\NetSendAdvanced\NSAServer\obj\x86\Debug\NSASender.exe
+C:\Users\Илья\Dropbox\Работа\NetSendAdvanced\NSAServer\obj\x86\Debug\NSASender.pdb
+C:\Users\Илья\Dropbox\Работа\NetSendAdvanced\NSAServer\bin\Debug\NSASender.exe
+C:\Users\Илья\Dropbox\Работа\NetSendAdvanced\NSAServer\bin\Debug\NSASender.pdb

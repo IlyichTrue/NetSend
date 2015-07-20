@@ -1,0 +1,2 @@
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\NetSendAdvanced\test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\NetSendAdvanced\test\obj\x86\Debug\test.exe

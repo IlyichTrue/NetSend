@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="C4610B43-C1A9-4B96-AA3E-2078829B54C4" ModuleId="NSASender" />
+  <Module PersistentId="697C318C-24F5-4EB8-8620-C1C4212718BC" ModuleId="NSAService" />
+  <Module PersistentId="69733557-EAB9-4148-A2A7-6639106A408D" ModuleId="WindowsThreadsTest" />
+</Modules>
